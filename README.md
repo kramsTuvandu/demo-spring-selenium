@@ -1,2 +1,2 @@
 # demo-spring-selenium
-test triger jenkins only
+test triger jenkins only 1
